@@ -1,16 +1,24 @@
-## Hi there 👋
+- ♥️ [Science](https://scholar.google.com/citations?user=uv5LXe4AAAAJ)
+- 🔭 Currently waiting for my [PR](https://github.com/microsoft/vscode/pull/235672) to merged into VSCode
+- 😎 Mainteiner of fossil VSCode extension
+- 💪 I'm strong ~~and you are fat!~~
+  - No alcohol
+  - No drugs
+  - No smoking
+  - No swearing
+  - No body modifications:
+    - Tattoos
+    - Piercings
+    - Fast food
+    - Sunbathing
+  - No owning items that harm the Earth
+  - No video games
+  - No low culture
+  - No fascism
+  - No herd mentality
+  - No ignoring health issues
+  - No whataboutery
+  - No discussing topics that change nothing
+  - No being part of society
+  - No refusing to acknowledge your mistakes
 
-<!--
-**senyai/senyai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
