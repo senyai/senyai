@@ -1,6 +1,6 @@
 - ♥️ [Science](https://scholar.google.com/citations?user=uv5LXe4AAAAJ)
 - 🔭 Currently waiting for my [PR](https://github.com/microsoft/vscode/pull/235672) to merged into VSCode
-- 😎 Mainteiner of fossil VSCode extension
+- 😎 Mainteiner of [fossil VSCode extension](https://marketplace.visualstudio.com/items?itemName=koog1000.fossil)
 - 💪 I'm strong ~~and you are [fat](https://youtu.be/guvtJDi8t-U?t=266)!~~
   - No alcohol
   - No drugs
